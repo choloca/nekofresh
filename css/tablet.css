@@ -27,7 +27,7 @@
     --------------*/
 
     .wave {
-        background: url("/img/main_pc.jpg") no-repeat center;
+        background: url("https://github.com/choloca/nekofresh/blob/main/img/main_pc.jpg?raw=true") no-repeat center;
         background-size: cover;
         height: 66vh;
         width: 100vw;
