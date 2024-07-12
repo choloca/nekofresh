@@ -139,7 +139,7 @@
     }
 
     .wave::after {
-        background: url("/img/wave.svg");
+        background: url("https://raw.githubusercontent.com/choloca/nekofresh/b03fc436a07abd3d2a6e15cf7ed8b4a6fb3b3236/img/wave_mb.svg");
         background-size: cover;
         background-repeat: no-repeat;
         bottom: -1px;
