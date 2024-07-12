@@ -99,7 +99,7 @@
     --------------*/
 
     .wave {
-        background: url("/img/main_mb.jpg") no-repeat center;
+        background: url("https://github.com/choloca/nekofresh/blob/main/img/main_mb.jpg?raw=true") no-repeat center;
         background-size: cover;
         /* object-fit: cover; */
         height: 400px;
