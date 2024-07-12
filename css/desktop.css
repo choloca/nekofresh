@@ -86,7 +86,7 @@
     }
 
     .wave::after {
-        background: url("https://github.com/choloca/nekofresh/blob/main/img/main_pc.jpg?raw=true");
+        background: url("/img/wave.svg");
         background-size: cover;
         background-repeat: no-repeat;
         height: 170px;
