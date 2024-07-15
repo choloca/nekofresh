@@ -139,7 +139,7 @@
     }
 
     .wave::after {
-        background: url("https://raw.githubusercontent.com/choloca/nekofresh/b03fc436a07abd3d2a6e15cf7ed8b4a6fb3b3236/img/wave_mb.svg");
+        background: url("https://raw.githubusercontent.com/choloca/nekofresh/d311253036abd7f32a7491a0caca2a3733f47fad/img/wave.svg");
         background-size: cover;
         background-repeat: no-repeat;
         bottom: -1px;
